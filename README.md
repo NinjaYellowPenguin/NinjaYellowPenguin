@@ -1,6 +1,6 @@
 <!-- Encabezado con animación -->
 <p align="center">
-  <img src="https://previews.123rf.com/images/zaalevych/zaalevych2407/zaalevych240700281/231812748-ilustraci%C3%B3n-de-vector-de-dise%C3%B1o-de-ping%C3%BCino-de-pie-en-estilo-pixel-art-adorable.jpg" alt="Título animado" width="200" height="100"/>
+  <img src="https://previews.123rf.com/images/zaalevych/zaalevych2407/zaalevych240700281/231812748-ilustraci%C3%B3n-de-vector-de-dise%C3%B1o-de-ping%C3%BCino-de-pie-en-estilo-pixel-art-adorable.jpg" alt="Título animado" width="200" height="150"/>
 </p>
 
 
