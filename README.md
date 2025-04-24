@@ -1,6 +1,6 @@
 <!-- Encabezado con animación -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&width=435&lines=¡Hola!+👋+Soy+[Tu+Nombre];🚀+Backend+Dev+en+Formación;🌱+Domino+el+roadmap.sh;🛠️+Aprendiendo+con+proyectos+prácticos&center=true&size=25" alt="Título animado" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.123rf.com%2Fphoto_231812748_adorable-pixel-art-penguin-standing-vector-illustration-design.html&psig=AOvVaw10mCHmbwx23Nr1NyIV6R92&ust=1745597375029000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJit4qWH8YwDFQAAAAAdAAAAABAE" alt="Título animado" />
 </p>
 
 
@@ -9,10 +9,10 @@
 <!-- Sección: Contacto -->
 ## 📫 **¡Conectemos!**
 <p align="left">
-  <a href="https://linkedin.com/in/[tu-perfil]" target="_blank">
+  <a href="www.linkedin.com/in/dscarlos" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:tu@email.com">
+  <a href="mailto:litos@yellowpenguin.ninja">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
