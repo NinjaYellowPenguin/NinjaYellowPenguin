@@ -25,5 +25,5 @@
 </p>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=[TU_USERNAME]&label=👀+Visitantes&color=FFD700" alt="Contador de visitas"/>
+  <img src="https://komarev.com/ghpvc/?username=[NinjaYellowPenguin]&label=👀+Visitantes&color=FFD700" alt="Contador de visitas"/>
 </p>
