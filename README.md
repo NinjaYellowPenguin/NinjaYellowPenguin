@@ -1,15 +1,30 @@
-<!-- Encabezado con animación -->
-<p align="left">
-  <img src="https://previews.123rf.com/images/zaalevych/zaalevych2407/zaalevych240700281/231812748-ilustraci%C3%B3n-de-vector-de-dise%C3%B1o-de-ping%C3%BCino-de-pie-en-estilo-pixel-art-adorable.jpg" alt="Título animado" width="200" height="150"/>
+<!-- Encabezado con imagen -->
+<p align="center">
+  <img src="https://previews.123rf.com/images/zaalevych/zaalevych2407/zaalevych240700281/231812748-ilustraci%C3%B3n-de-vector-de-dise%C3%B1o-de-ping%C3%BCino-de-pie-en-estilo-pixel-art-adorable.jpg" alt="Pixel Penguin" width="200" height="150"/>
 </p>
 
+<h1 align="center">¡Hola! Soy Carlos Espinosa Diz 🐧</h1>
+
+---
+
+<!-- Bloque intermedio: proyectos en curso -->
+## 🚧 **Proyectos en curso**
+Actualmente estoy trabajando en los proyectos del roadmap de desarrollo **Backend**. Estoy consolidando conocimientos en Java, Spring Boot, bases de datos y arquitectura de APIs. ¡Sígueme para ver cómo evolucionan!
+
+---
+
+<!-- Sección: Repositorios destacados -->
+## 📂 **Repositorios destacados**
+Aquí iré añadiendo mis proyectos más relevantes. 👇
+
+<!-- - [Nombre del proyecto 1](https://github.com/NinjaYellowPenguin/nombre-proyecto-1) -->
 
 ---
 
 <!-- Sección: Contacto -->
 ## 📫 **¡Conectemos!**
 <p align="left">
-  <a href="www.linkedin.com/in/dscarlos" target="_blank">
+  <a href="https://www.linkedin.com/in/dscarlos" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:litos@yellowpenguin.ninja">
@@ -21,7 +36,7 @@
 
 <!-- Pie de página con frase inspiradora -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=slef.dislexia = true" alt="Frase inspiradora"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=slef.dislexia%20%3D%20true" alt="Frase inspiradora: slef.dislexia = true"/>
 </p>
 
 <p align="center"> 
