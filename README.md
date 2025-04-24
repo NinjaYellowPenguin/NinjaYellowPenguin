@@ -1,6 +1,6 @@
 <!-- Encabezado con animación -->
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.123rf.com%2Fphoto_231812748_adorable-pixel-art-penguin-standing-vector-illustration-design.html&psig=AOvVaw10mCHmbwx23Nr1NyIV6R92&ust=1745597375029000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJit4qWH8YwDFQAAAAAdAAAAABAE" alt="Título animado" />
+  <img src="https://previews.123rf.com/images/zaalevych/zaalevych2407/zaalevych240700281/231812748-ilustraci%C3%B3n-de-vector-de-dise%C3%B1o-de-ping%C3%BCino-de-pie-en-estilo-pixel-art-adorable.jpg" alt="Título animado" />
 </p>
 
 
@@ -21,7 +21,7 @@
 
 <!-- Pie de página con frase inspiradora -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=El_backend_no_se_ve,_pero_se_siente.&author=Un_Dev_Anónimo" alt="Frase inspiradora"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=slef.dislexia = true" alt="Frase inspiradora"/>
 </p>
 
 <p align="center"> 
