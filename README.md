@@ -14,10 +14,10 @@ Actualmente estoy trabajando en los proyectos del roadmap de desarrollo **Backen
 ---
 
 <!-- Sección: Repositorios destacados -->
-## 📂 **Repositorios destacados**
+## 📂 **Repositorios terminados**
 Aquí iré añadiendo mis proyectos más relevantes. 👇
 
-<!-- - [Nombre del proyecto 1](https://github.com/NinjaYellowPenguin/nombre-proyecto-1) -->
+- [Task Tracker](https://github.com/NinjaYellowPenguin/TaskTracker.git)
 
 ---
 
