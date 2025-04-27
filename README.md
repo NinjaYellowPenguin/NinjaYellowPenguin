@@ -16,6 +16,7 @@ Actualmente estoy trabajando en los proyectos del roadmap de desarrollo **Backen
 <!-- Sección: Repositorios destacados -->
 ## 📂 **Proyectos del curso terminados**
 
+- [GithubUserActivity](https://github.com/NinjaYellowPenguin/GitHubUserActivity.git)
 - [Task Tracker](https://github.com/NinjaYellowPenguin/TaskTracker.git)
 
 ---
