@@ -1,6 +1,6 @@
 <!-- Encabezado con imagen -->
 <p align="center">
-  <img src="https://previews.123rf.com/images/zaalevych/zaalevych2407/zaalevych240700281/231812748-ilustraci%C3%B3n-de-vector-de-dise%C3%B1o-de-ping%C3%BCino-de-pie-en-estilo-pixel-art-adorable.jpg" alt="Pixel Penguin" width="200" height="150"/>
+  <!-- <img src="https://previews.123rf.com/images/zaalevych/zaalevych2407/zaalevych240700281/231812748-ilustraci%C3%B3n-de-vector-de-dise%C3%B1o-de-ping%C3%BCino-de-pie-en-estilo-pixel-art-adorable.jpg" alt="Pixel Penguin" width="200" height="150"/> -->
 </p>
 
 <h1 align="center">¡Hola! Soy Carlos Espinosa Diz 🐧</h1>
