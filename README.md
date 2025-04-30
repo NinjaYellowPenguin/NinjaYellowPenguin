@@ -16,6 +16,7 @@ Actualmente estoy trabajando en los proyectos del [roadmap](https://roadmap.sh/b
 <!-- Sección: Repositorios destacados -->
 ## 📂 **Proyectos del curso terminados**
 
+- [Number Guessing Game](https://github.com/NinjaYellowPenguin/NumberGuessingGame.git)
 - [Expense Tracker](https://github.com/NinjaYellowPenguin/ExpenseTracker.git)
 - [GithubUserActivity](https://github.com/NinjaYellowPenguin/GitHubUserActivity.git)
 - [Task Tracker](https://github.com/NinjaYellowPenguin/TaskTracker.git)
