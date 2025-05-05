@@ -9,7 +9,8 @@
 
 <!-- Bloque intermedio: proyectos en curso -->
 ## 🚧 **Proyectos en curso**
-Actualmente estoy trabajando en los proyectos del [roadmap](https://roadmap.sh/backend/projects) de desarrollo **Backend**. Estoy consolidando conocimientos en Java, Spring Boot, bases de datos y arquitectura de APIs. ¡Sígueme para ver cómo evolucionan!
+Actualmente estoy trabajando en los proyectos del <a href="https://roadmap.sh/backend/projects" target="_blank">roadmap</a>
+ de desarrollo **Backend**. Estoy consolidando conocimientos en Java, Spring Boot, bases de datos y arquitectura de APIs. ¡Sígueme para ver cómo evolucionan!
 
 ---
 
