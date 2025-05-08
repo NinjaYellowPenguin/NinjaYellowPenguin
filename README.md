@@ -17,6 +17,7 @@ Actualmente estoy trabajando en los proyectos del [roadmap](https://roadmap.sh/b
 <!-- Sección: Repositorios destacados -->
 ## 📂 **Proyectos del curso terminados**
 
+- [Blogging Platform](https://github.com/NinjaYellowPenguin/BloggingPlatform.git)
 - [Weather Api](https://github.com/NinjaYellowPenguin/WeatherApi.git)
 - [Number Guessing Game](https://github.com/NinjaYellowPenguin/NumberGuessingGame.git)
 - [Expense Tracker](https://github.com/NinjaYellowPenguin/ExpenseTracker.git)
